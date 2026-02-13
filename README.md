@@ -19,6 +19,9 @@ Total Revenue, Total Profits and Total Quantity $142.41M, $31.55M and 371K respe
 Highest performing category of products is Electronics, making 40.37% of the total revenue, followed by Home and furniture (33.43%), Clothing and Apparel (19.05%) and Accessories (7.10%).
 <img width="513" height="279" alt="Screenshot 2026-02-13 140016" src="https://github.com/user-attachments/assets/843fd2fa-7cc8-4d47-835f-11be053e87c1" />
 
+A full view of the sales dashboard
+<img width="1173" height="652" alt="Screenshot 2026-02-13 140958" src="https://github.com/user-attachments/assets/1bf81783-492e-44fa-bbe3-4f0884a90913" />
+
 
 
 RECOMMENDATIONS
